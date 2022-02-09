@@ -1,6 +1,9 @@
 * {
     text-align: center;
-    font-family: Arial;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #E0EAFC; 
+    background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);   
+    background: linear-gradient(to right, #CFDEF3, #E0EAFC);  
 }
 h1{
     margin-top: 40vh;
@@ -29,5 +32,5 @@ h1{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .convert-button:hover{
-    background: #0485DD
+    background: #0374BB
 }
